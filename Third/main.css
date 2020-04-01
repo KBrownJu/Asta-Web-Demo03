@@ -1,0 +1,80 @@
+
+.maincontainer {
+    background-color: #F6F5F1;
+}
+
+
+h1 {
+font-family: acumin-pro, sans-serif;
+font-weight: 400; 
+font-style: normal;
+font-size: 95px;
+line-height:97px;
+margin: auto;
+width: 1200px;
+padding-top: 40px;
+text-align: center;
+}
+
+h2{
+    font-family: font-family: 'Quando', serif;
+font-weight: 400; 
+font-style: normal;
+font-size: 35px;
+line-height: 37px;
+width: 800px;
+padding-top: 20px;
+padding-left: 80px;
+}
+
+
+h3{
+font-family: acumin-pro, sans-serif;
+font-weight: 400; 
+font-style: normal;
+font-size: 18x;
+line-height: 20px;
+padding-top: 20px;
+padding-left: 200px;
+}
+
+.image1 {
+    padding-left: 200px;
+    padding-top: 20px;
+  
+    width: 800px;
+}
+
+.image2 {
+    width: 600px;
+}
+
+
+.headline{
+    font-family: orpheuspro, serif;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 39px;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    padding-right: 100px;
+    width: 960px;
+    padding-top: 20px;
+    padding-left: 80px;
+    }
+    
+
+.maintext{
+    margin: auto;
+    font-family: orpheuspro, serif;
+    font-size: 20px;
+    line-height: 24px;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    width: 600px;
+    }
+    
